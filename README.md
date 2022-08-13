@@ -75,3 +75,5 @@ Finally, the reducers are all in the ```./reducers``` file, which for now contai
 ## Why ⛩
 
 Setting the boilerplate of a project usually takes away from the momentum of a good idea. Lost momentum might lead to a loss in productivity. More importantly, lost momentum is simply lost energy, lost positivity, it's just annoying. I don't need this in my life. This should allow me to jump start any project in the future.
+
+## LOVE BY OLUWAFERANMI ADENIJI

@@ -8,7 +8,6 @@ import Routes from './routing/Routes';
 import ErrorBoundary from './components/ErrorBoundary';
 
 class App extends Component {
-
   constructor(props) {
     super(props);
     this.state = {
